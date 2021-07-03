@@ -9,7 +9,7 @@
 
 @implementation ZJGPrintTool
 
-+ (UIColor *)arndomColor {
++ (UIColor *)randomColor {
     CGFloat red = arc4random_uniform(256)/ 255.0;
 
     CGFloat green = arc4random_uniform(256)/ 255.0;

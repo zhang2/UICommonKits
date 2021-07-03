@@ -13,7 +13,7 @@ NS_ASSUME_NONNULL_BEGIN
 @interface ZJGPrintTool : NSObject
 
 ///获取随机颜色
-+ (UIColor *)arndomColor;
++ (UIColor *)randomColor;
 
 @end
 
