@@ -1,0 +1,6 @@
+framework module UICommonKits {
+  umbrella header "UICommonKits-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,16 @@
+PODS:
+  - UICommonKits (0.0.1)
+
+DEPENDENCIES:
+  - UICommonKits (from `../`)
+
+EXTERNAL SOURCES:
+  UICommonKits:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  UICommonKits: 860afba977e787b78ac29b321ddc75b678938a3d
+
+PODFILE CHECKSUM: 6728c3a48551a945adadd12d291a5a109ad2b00c
+
+COCOAPODS: 1.10.1
