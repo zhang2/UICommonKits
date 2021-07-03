@@ -17,7 +17,11 @@
 - (void)viewDidLoad {
     [super viewDidLoad];
     // Do any additional setup after loading the view.
-    self.view.backgroundColor = [ZJGPrintTool arndomColor];
+    self.view.backgroundColor = [ZJGPrintTool randomColor];
+}
+
+- (void)touchesBegan:(NSSet<UITouch *> *)touches withEvent:(UIEvent *)event {
+    self.view.backgroundColor = [ZJGPrintTool randomColor];
 }
 
 
