@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |spec|
   spec.name         = "UICommonKits"
-  spec.version      = "1.0.0"
+  spec.version      = "1.1.0"
   spec.summary      = "a common user interface Kits."
   spec.description  = <<-DESC
                      a common user interface Kits.
