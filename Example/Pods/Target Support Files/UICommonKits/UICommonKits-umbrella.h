@@ -10,6 +10,8 @@
 #endif
 #endif
 
+#import "UIImage+Category.h"
+#import "UIView+Category.h"
 #import "ZJGPrintTool.h"
 
 FOUNDATION_EXPORT double UICommonKitsVersionNumber;

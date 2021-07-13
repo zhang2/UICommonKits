@@ -1,5 +1,5 @@
 PODS:
-  - UICommonKits (0.0.1)
+  - UICommonKits (1.0.0)
 
 DEPENDENCIES:
   - UICommonKits (from `../`)
@@ -9,7 +9,7 @@ EXTERNAL SOURCES:
     :path: "../"
 
 SPEC CHECKSUMS:
-  UICommonKits: 860afba977e787b78ac29b321ddc75b678938a3d
+  UICommonKits: f6278536077f4a01931b36dc9638226f4d84b0ed
 
 PODFILE CHECKSUM: 6728c3a48551a945adadd12d291a5a109ad2b00c
 
